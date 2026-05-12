@@ -1,3 +1,4 @@
+package src.main.java;
 public class BadCode {
 
     public static void main(String[] args) {
